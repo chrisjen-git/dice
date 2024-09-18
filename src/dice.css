@@ -1,0 +1,12 @@
+
+    p {
+        font-weight: bold;
+    }
+
+    #player1Score, #player2Score, #update1, #update2{
+        font-weight: normal;
+    }
+
+    #update1, #update2{
+        font-size: 15px;
+    }
